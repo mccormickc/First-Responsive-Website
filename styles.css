@@ -3,7 +3,6 @@ body {
 }
 
 /* Desktop */
-
 @media (min-width: 992px) {
 .container {
     display: grid;
